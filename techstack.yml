@@ -1,0 +1,30 @@
+repo_name: irazasyed/awesome-fluents
+report_id: 80eff301b6ddfdf1e31886f3821ffed6
+repo_type: Public
+timestamp: '2023-11-14T06:25:44+00:00'
+requested_by: aretecode
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source: ".travis.yml"
+  last_updated_by: Arete Code
+  last_updated_on: 2017-05-09 08:50:27.000000000 Z
